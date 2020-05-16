@@ -1,0 +1,62 @@
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\CustomCellView.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.AssemblyInfo.cs
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.deps.json
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.dll
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.pdb
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.dll
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.pdb
+C:\Users\admin\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.csprojAssemblyReference.cache
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.deps.json
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.dll
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.pdb
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.csprojAssemblyReference.cache
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\CustomCellView.xaml.g.cs
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.csproj.CoreCompileInputs.cache
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.AssemblyInfoInputs.cache
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.AssemblyInfo.cs
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.dll
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.pdb
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\HaikyuuItemPage.xaml.g.cs
+C:\Users\Pol Benito\Desktop\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.deps.json
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.dll
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.pdb
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\CustomCellView.xaml.g.cs
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\HaikyuuItemPage.xaml.g.cs
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.AssemblyInfo.cs
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.dll
+C:\Users\admin\Desktop\Xamarin - casa\Haikyuu\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.pdb
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.deps.json
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.dll
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\bin\Debug\netstandard2.0\Haikyuu.pdb
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\CustomCellView.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\HaikyuuItemPage.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.AssemblyInfo.cs
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.dll
+C:\Users\admin\Desktop\Haikyuu - SQL\Haikyuu\Haikyuu\obj\Debug\netstandard2.0\Haikyuu.pdb
